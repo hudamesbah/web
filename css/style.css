@@ -1,0 +1,58 @@
+/* .demo{
+    height: 250;
+    width: 250;
+    background-color: rebeccapurple;
+    display: none;
+
+} */
+/* img{
+    width: 100%;
+}
+section{
+    width: 10px;
+    height: 10px;
+
+}
+.item,h1{
+    display: none;
+} */
+/* .huda{
+    width: 400px;
+    height: 400px;
+    background-color: indianred;
+    display: none;
+}
+.huda1{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(92, 205, 167);
+    display: none;
+}
+.huda2{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(171, 205, 92);
+    display: none;
+} */
+/* .item,h1{
+    display: none;
+    overflow: hidden;
+}
+img{
+    width: 100%;
+}
+section{
+    width: 5px;
+    height: 5px;
+    
+    
+} */
+.main-img{
+width: 50%;
+}
+.small-img{
+    width: 25%;
+}
+img{
+    cursor: pointer;
+}
